@@ -27,7 +27,7 @@ $ rails db:crate db:migrate
 $ rails s
 ```
 ## カタログ設計、テーブル定義書、チェックシート
-(https://docs.google.com/spreadsheets/d/1pSQVuuDfbEetoIHBc1bYRT0CI0A-1_cbZfwFirkE-Xc/edit#gid=514429447)
+https://docs.google.com/spreadsheets/d/1pSQVuuDfbEetoIHBc1bYRT0CI0A-1_cbZfwFirkE-Xc/edit#gid=514429447
 
 
 ## ER図
