@@ -33,7 +33,7 @@ $ rails s
 https://app.diagrams.net/#G12xJvCCSce69-fTKlakp24t4Qykgk_Tqp
 
 ![ER図]
-https://github.com/12a1070/GymFit/blob/master/docs/er_diagram.png
+https://drive.google.com/file/d/12xJvCCSce69-fTKlakp24t4Qykgk_Tqp/view
 
 ##[画面遷移図]https://drive.google.com/file/d/1XEhOht1uMouZQ4Tirc-wiPgOgsa5V3K4/view?usp=sharing
 
