@@ -31,13 +31,14 @@ $ rails s
 
 ##[ER図]
 https://app.diagrams.net/#G12xJvCCSce69-fTKlakp24t4Qykgk_Tqp
+
 ![ER図]
 https://github.com/12a1070/GymFit/blob/master/docs/er_diagram.png
 
-##[画面遷移図]
-https://drive.google.com/file/d/1XEhOht1uMouZQ4Tirc-wiPgOgsa5V3K4/view?usp=sharing
-![画面遷移図]
-https://github.com/12a1070/GymFit/blob/master/docs/screen_transition_diagram.png
+##[画面遷移図]https://drive.google.com/file/d/1XEhOht1uMouZQ4Tirc-wiPgOgsa5V3K4/view?usp=sharing
+
+
+![画面遷移図]https://github.com/12a1070/GymFit/blob/master/docs/screen_transition_diagram.png
 
 ##[ワイヤーフレーム]
 https://cacoo.com/diagrams/1e1msSEANWy7bdOX/82C9A?reload_rt=1636431616034_0
