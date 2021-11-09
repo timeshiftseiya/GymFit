@@ -26,24 +26,24 @@ $ bundle install
 $ rails db:crate db:migrate
 $ rails s
 ```
-## [カタログ設計、テーブル定義書、チェックシート]
+## カタログ設計、テーブル定義書、チェックシート
 (https://docs.google.com/spreadsheets/d/1pSQVuuDfbEetoIHBc1bYRT0CI0A-1_cbZfwFirkE-Xc/edit#gid=514429447)
 
 
-## [ER図]
+## ER図
 https://app.diagrams.net/#G12xJvCCSce69-fTKlakp24t4Qykgk_Tqp
 
 ! [ER図]
 https://drive.google.com/file/d/12xJvCCSce69-fTKlakp24t4Qykgk_Tqp/view
 
-## [画面遷移図]
+## 画面遷移図
 
 https://drive.google.com/file/d/1XEhOht1uMouZQ4Tirc-wiPgOgsa5V3K4/view?usp=sharing
 
 
-! [画面遷移図]
+! 画面遷移図
 
 https://github.com/12a1070/GymFit/blob/master/docs/screen_transition_diagram.png
 
-## [ワイヤーフレーム]
+## ワイヤーフレーム
 https://cacoo.com/diagrams/1e1msSEANWy7bdOX/82C9A?reload_rt=1636431616034_0
